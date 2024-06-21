@@ -1,0 +1,622 @@
+{
+  "dados": [
+    {
+      "id": 36767,
+      "sigla": "AL",
+      "nome": "Aliança Libertadora",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36768,
+      "sigla": "ARENA",
+      "nome": "Aliança Renovadora Nacional",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Arena_Brasil.svg/1200px-Arena_Brasil.svg.png"
+    },
+    {
+      "id": 36898,
+      "sigla": "AVANTE",
+      "nome": "Avante",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bandeira-partido-avante.png"
+    },
+    {
+      "id": 37905,
+      "sigla": "CIDADANIA",
+      "nome": "Cidadania",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_do_Cidadania_23.png"
+    },
+    {
+      "id": 37902,
+      "sigla": "DC",
+      "nome": "Democracia Cristã",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bandeira-democracia-crist%C3%A3.png/1200px-Bandeira-democracia-crist%C3%A3.png"
+    },
+    {
+      "id": 36769,
+      "sigla": "DEM",
+      "nome": "Democratas",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/5/52/Democratas_logo_%28cortado%29.png"
+    },
+    {
+      "id": 36770,
+      "sigla": "ED",
+      "nome": "Esquerda Democrática",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/EDA_logo.svg/300px-EDA_logo.svg.png"
+    },
+    {
+      "id": 36771,
+      "sigla": "FUG",
+      "nome": "Frente Única Gaúcha",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCR5-9GrxbMgRC69DMSbl3b9FBieoeP0q-g&s"
+    },
+    {
+      "id": 36772,
+      "sigla": "LASP",
+      "nome": "Liga de Ação Social e Política",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36773,
+      "sigla": "LEC",
+      "nome": "Liga Eleitoral Católica",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36899,
+      "sigla": "MDB",
+      "nome": "Movimento Democrático Brasileiro",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Movimento_Democr%C3%A1tico_Brasileiro_%282017%29.svg/1200px-Movimento_Democr%C3%A1tico_Brasileiro_%282017%29.svg.png"
+    },
+    {
+      "id": 36774,
+      "sigla": "MDB*",
+      "nome": "Movimento Democrático Brasileiro",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Movimento_Democr%C3%A1tico_Brasileiro_%282017%29.svg/1200px-Movimento_Democr%C3%A1tico_Brasileiro_%282017%29.svg.png"
+    },
+    {
+      "id": 36775,
+      "sigla": "MTR",
+      "nome": "Movimento Trabalhista Renovador",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_do_MTR.png/800px-Logo_do_MTR.png"
+    },
+    {
+      "id": 37901,
+      "sigla": "NOVO",
+      "nome": "Partido Novo",
+      "urlFoto": "https://novo.org.br/wp-content/uploads/2020/07/pp.jpg"
+    },
+    {
+      "id": 36776,
+      "sigla": "PAN",
+      "nome": "Partido dos Aposentados da Nação",
+      "urlFoto": "https://www.crwflags.com/fotw/images/b/br%7Dpan.gif"
+    },
+    {
+      "id": 37900,
+      "sigla": "PATRI",
+      "nome": "Patriota",
+      "urlFoto": "https://www.informeblumenau.com/wp-content/uploads/2017/10/Patriota51.png"
+    },
+    {
+      "id": 37907,
+      "sigla": "PATRIOTA",
+      "nome": "Patriota",
+      "urlFoto": "https://www.informeblumenau.com/wp-content/uploads/2017/10/Patriota51.png"
+    },
+    {
+      "id": 36777,
+      "sigla": "PC",
+      "nome": "Partido Comunista",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36778,
+      "sigla": "PCB*",
+      "nome": "Partido Comunista Brasileiro",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/PCB_Logo.svg/1200px-PCB_Logo.svg.png"
+    },
+    {
+      "id": 37986,
+      "sigla": "PCB**",
+      "nome": "Partido Comunista Brasileiro",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/PCB_Logo.svg/1200px-PCB_Logo.svg.png"
+    },
+    {
+      "id": 36779,
+      "sigla": "PCdoB",
+      "nome": "Partido Comunista do Brasil",
+      "urlFoto": "https://forodesaopaulo.org/wp-content/uploads/2011/03/pcdob1.gif"
+    },
+    {
+      "id": 36782,
+      "sigla": "PD",
+      "nome": "Partido Democrático",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36783,
+      "sigla": "PDC",
+      "nome": "Partido Democrático Cristão",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 37989,
+      "sigla": "PDC*",
+      "nome": "Partido Democrata Cristão",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Partido_Democrata_Crist%C3%A3o_%281985-1993%29.svg/2048px-Logo_Partido_Democrata_Crist%C3%A3o_%281985-1993%29.svg.png"
+    },
+    {
+      "id": 36785,
+      "sigla": "PDS",
+      "nome": "Partido Democrático Social",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Logotipo_oficial_do_Partido_Democr%C3%A1tico_Social.png"
+    },
+    {
+      "id": 36786,
+      "sigla": "PDT",
+      "nome": "Partido Democrático Trabalhista",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Logomarca_do_Partido_Democr%C3%A1tico_Trabalhista%2C_do_Brasil.png"
+    },
+    {
+      "id": 36787,
+      "sigla": "PE",
+      "nome": "Partido Economista",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36788,
+      "sigla": "PED",
+      "nome": "Partido Economista Democrático",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36761,
+      "sigla": "PEN",
+      "nome": "Partido Ecológico Nacional",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqe2dIR5RZ7ew9Y4qKnu1mWuPQgLd3E83Wg&s"
+    },
+    {
+      "id": 36790,
+      "sigla": "PFL",
+      "nome": "Partido da Frente Liberal",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logotipo_do_Partido_da_Frente_Liberal.svg/1405px-Logotipo_do_Partido_da_Frente_Liberal.svg.png"
+    },
+    {
+      "id": 36793,
+      "sigla": "PHS",
+      "nome": "Partido Humanista da Solidariedade",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFsrrJOBXZ0xq4EB843jjOwqqjyYCs1GPKg&s"
+    },
+    {
+      "id": 36794,
+      "sigla": "PJ",
+      "nome": "Partido da Juventude",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PJJuventude.jpg/640px-PJJuventude.jpg"
+    },
+    {
+      "id": 37906,
+      "sigla": "PL",
+      "nome": "Partido Liberal",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Logomarca_Partido_Liberal_%28Brasil%29.jpg/1200px-Logomarca_Partido_Liberal_%28Brasil%29.jpg"
+    },
+    {
+      "id": 36795,
+      "sigla": "PL*",
+      "nome": "Partido Liberal",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Logomarca_Partido_Liberal_%28Brasil%29.jpg/1200px-Logomarca_Partido_Liberal_%28Brasil%29.jpg"
+    },
+    {
+      "id": 36866,
+      "sigla": "PL**",
+      "nome": "Partido Libertador",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36796,
+      "sigla": "PLC",
+      "nome": "Partido Liberal Catarinense",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36887,
+      "sigla": "PMB",
+      "nome": "Partido da Mulher Brasileira",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBaAWSponyf9gr9dCjs3GvGedxg9eqKKGyX-SsdguV5sUt8scCVATvWrR81B3dEZldlOA&usqp=CAU"
+    },
+    {
+      "id": 36800,
+      "sigla": "PMDB",
+      "nome": "Partido do Movimento Democrático Brasileiro",
+      "urlFoto": "https://neamp.pucsp.br/images/logos/partido-do-movimento-democratico-brasileiro-pmdb.png"
+    },
+    {
+      "id": 36801,
+      "sigla": "PMN",
+      "nome": "Partido da Mobilização Nacional",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFzQKd0QNgd2akYqKg92OYDcnPOlJpqGu9g&s"
+    },
+    {
+      "id": 36802,
+      "sigla": "PMR",
+      "nome": "Partido Municipalista Renovador",
+      "urlFoto": "https://republicanos10.org.br/wp-content/uploads/2020/05/logo-pmr-partido-municipalista-renovadorPQ.jpg"
+    },
+    {
+      "id": 36804,
+      "sigla": "PNA",
+      "nome": "Partido Nacional de Alagoas",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36807,
+      "sigla": "PNI",
+      "nome": "Não Informado",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36808,
+      "sigla": "PNS",
+      "nome": "Partido Nacional Socialista",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36896,
+      "sigla": "PODE",
+      "nome": "Podemos",
+      "urlFoto": "https://www.podemos.org.br/wp-content/uploads/2018/04/marca.png"
+    },
+    {
+      "id": 37903,
+      "sigla": "PP",
+      "nome": "Progressistas",
+      "urlFoto": "https://neamp.pucsp.br/images/logos/partido-progressista-pp.png"
+    },
+    {
+      "id": 36809,
+      "sigla": "PP**",
+      "nome": "Partido Progressista",
+      "urlFoto": "https://neamp.pucsp.br/images/logos/partido-progressista-pp.png"
+    },
+    {
+      "id": 37994,
+      "sigla": "PP***",
+      "nome": "Partido Progressista",
+      "urlFoto": "https://neamp.pucsp.br/images/logos/partido-progressista-pp.png"
+    },
+    {
+      "id": 36810,
+      "sigla": "PPA",
+      "nome": "Partido Popular do Acre",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36811,
+      "sigla": "PPB",
+      "nome": "Partido Progressista Brasileiro",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/4/49/Logotipo_do_Partido_Progressista_Brasileiro_%281995-2003%29.png"
+    },
+    {
+      "id": 36762,
+      "sigla": "PPL",
+      "nome": "Partido Pátria Livre",
+      "urlFoto": "https://pbs.twimg.com/profile_images/940228809415987200/yyZm5kVO_400x400.jpg"
+    },
+    {
+      "id": 36893,
+      "sigla": "PPM",
+      "nome": "Partido Progressista Mineiro",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36812,
+      "sigla": "PPR",
+      "nome": "Partido Progressista Reformador",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36813,
+      "sigla": "PPS",
+      "nome": "Partido Popular Socialista",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emblema_PPS.svg/1200px-Emblema_PPS.svg.png"
+    },
+    {
+      "id": 36814,
+      "sigla": "PR",
+      "nome": "Partido da República",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Logomarca_do_Partido_da_Rep%C3%BAblica.png"
+    },
+    {
+      "id": 36815,
+      "sigla": "PRB",
+      "nome": "Partido Republicano Brasileiro",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZbHDbcwy9q5egFCppfeBXMuDxWPGRYvJyFQ&s"
+    },
+    {
+      "id": 36816,
+      "sigla": "PRC",
+      "nome": "Partido Republicano Conservador",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 38010,
+      "sigla": "PRD",
+      "nome": "Partido Renovação Democrática",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CSs0ebA060DCWHv4KAtR4E6Ak1aE9GqaFg&s"
+    },
+    {
+      "id": 36817,
+      "sigla": "PRD*",
+      "nome": "Partido Republicano Democrata da Bahia",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CSs0ebA060DCWHv4KAtR4E6Ak1aE9GqaFg&s"
+    },
+    {
+      "id": 36819,
+      "sigla": "PRF",
+      "nome": "Partido Republicano Federal",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zXfJ3j9Wac1CHf-Vc5rV-xkxEsqoEOFaky2GX0Z_tsukdPaNjBAn2xU_6Yr2VmMTVAo&usqp=CAU"
+    },
+    {
+      "id": 36820,
+      "sigla": "PRL",
+      "nome": "Partido Republicano Liberal",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36821,
+      "sigla": "PRM",
+      "nome": "Partido Republicano Mineiro",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36822,
+      "sigla": "PRN",
+      "nome": "Partido da Reconstrução Nacional",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/c/c1/PRN_logo.png"
+    },
+    {
+      "id": 36823,
+      "sigla": "PRONA",
+      "nome": "Partido de Reedificação da Ordem Nacional",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/PRONA_2004_2006.png/210px-PRONA_2004_2006.png"
+    },
+    {
+      "id": 36763,
+      "sigla": "PROS",
+      "nome": "Partido Republicano da Ordem Social",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Logomarca_do_Partido_Republicano_da_Ordem_Social_%28PROS%29%2C_do_Brasil.png"
+    },
+    {
+      "id": 36824,
+      "sigla": "PRP",
+      "nome": "Partido Republicano Progressista",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQ5ZUILlbUiH2jx-4mAjpUmtDA9BFBSVbjQ&s"
+    },
+    {
+      "id": 36879,
+      "sigla": "PRP*",
+      "nome": "Partido de Representação Popular",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36826,
+      "sigla": "PRR",
+      "nome": "Partido Republicano Rio-Grandense",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36827,
+      "sigla": "PRS",
+      "nome": "Partido das Reformas Sociais",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36828,
+      "sigla": "PRT",
+      "nome": "Partido Republicano Trabalhista",
+      "urlFoto": "https://pbs.twimg.com/profile_images/2649480739/df04e49952480797bb6e75066e54a61c_400x400.jpeg"
+    },
+    {
+      "id": 37998,
+      "sigla": "PRT*",
+      "nome": "Partido Rural Trabalhista",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36829,
+      "sigla": "PRTB",
+      "nome": "Partido Renovador Trabalhista Brasileiro",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36832,
+      "sigla": "PSB",
+      "nome": "Partido Socialista Brasileiro",
+      "urlFoto": "https://psb40.org.br/wp-content/uploads/2016/08/logo_ssb-1.jpg"
+    },
+    {
+      "id": 37999,
+      "sigla": "PSB*",
+      "nome": "Partido Socialista Brasileiro",
+      "urlFoto": "https://psb40.org.br/wp-content/uploads/2016/08/logo_ssb-1.jpg"
+    },
+    {
+      "id": 36833,
+      "sigla": "PSC",
+      "nome": "Partido Social Cristão",
+      "urlFoto": "https://neamp.pucsp.br/images/logos/partido-social-cristao-psc.png"
+    },
+    {
+      "id": 36834,
+      "sigla": "PSD",
+      "nome": "Partido Social Democrático",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PuYrbzr2Cl7PjEXyRzmR2wHaIeO4Pjvnew&s"
+    },
+    {
+      "id": 38000,
+      "sigla": "PSD*",
+      "nome": "Partido Social Democrático",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PuYrbzr2Cl7PjEXyRzmR2wHaIeO4Pjvnew&s"
+    },
+    {
+      "id": 36835,
+      "sigla": "PSDB",
+      "nome": "Partido da Social Democracia Brasileira",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Brazilian_Social_Democracy_Party_2023_logo.png"
+    },
+    {
+      "id": 36836,
+      "sigla": "PSDC",
+      "nome": "Partido Social Democrata Cristão",
+      "urlFoto": "https://neamp.pucsp.br/images/logos/partido-social-democrata-cristao-psdc.png"
+    },
+    {
+      "id": 36837,
+      "sigla": "PSL",
+      "nome": "Partido Social Liberal",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Partido_Social_Liberal_logo.svg/1200px-Partido_Social_Liberal_logo.svg.png"
+    },
+    {
+      "id": 36838,
+      "sigla": "PSN",
+      "nome": "Partido da Solidariedade Nacional",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/5/50/S%C3%ADmbolo_do_Partido_da_Solidariedade_Nacional.png"
+    },
+    {
+      "id": 36839,
+      "sigla": "PSOL",
+      "nome": "Partido Socialismo e Liberdade",
+      "urlFoto": "https://logodownload.org/wp-content/uploads/2018/10/psol-logo-2.png"
+    },
+    {
+      "id": 36840,
+      "sigla": "PSP",
+      "nome": "Partido Social Progressista",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Logo_Partido_PSP_1987.png"
+    },
+    {
+      "id": 36841,
+      "sigla": "PSR",
+      "nome": "Partido Social Republicano",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2MGGB-ySTSCmbYTT_w9J5bwifks1tMobv0Q&s"
+    },
+    {
+      "id": 36842,
+      "sigla": "PST",
+      "nome": "Partido Social Trabalhista",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PST1946.png/1200px-PST1946.png"
+    },
+    {
+      "id": 36843,
+      "sigla": "PSTU",
+      "nome": "Partido Socialista dos Trabalhadores Unificado",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Partido_Socialista_dos_Trabalhadores_Unificado_%28logotipo%29.jpg"
+    },
+    {
+      "id": 36844,
+      "sigla": "PT",
+      "nome": "Partido dos Trabalhadores",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bandeira_do_Partido_dos_Trabalhadores_%282022%29.png"
+    },
+    {
+      "id": 36845,
+      "sigla": "PTB",
+      "nome": "Partido Trabalhista Brasileiro",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PTB_logo%281981-2019%29.png"
+    },
+    {
+      "id": 38005,
+      "sigla": "PTB*",
+      "nome": "Partido Trabalhista Brasileiro",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PTB_logo%281981-2019%29.png"
+    },
+    {
+      "id": 36846,
+      "sigla": "PTC",
+      "nome": "Partido Trabalhista Cristão",
+      "urlFoto": "https://neamp.pucsp.br/images/logos/partido-trabalhista-cristao-ptc.png"
+    },
+    {
+      "id": 36847,
+      "sigla": "PTdoB",
+      "nome": "Partido Trabalhista do Brasil",
+      "urlFoto": "https://neamp.pucsp.br/images/logos/partido-trabalhista-do-brasil-pt-do-b.png"
+    },
+    {
+      "id": 36848,
+      "sigla": "PTN",
+      "nome": "Partido Trabalhista Nacional",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/pt/7/70/Ptn-logo.jpg"
+    },
+    {
+      "id": 36849,
+      "sigla": "PTR",
+      "nome": "Partido Trabalhista Renovador",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/e/e8/PTR28logo.png"
+    },
+    {
+      "id": 36851,
+      "sigla": "PV",
+      "nome": "Partido Verde",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/PV_Logo.svg/640px-PV_Logo.svg.png"
+    },
+    {
+      "id": 36886,
+      "sigla": "REDE",
+      "nome": "Rede Sustentabilidade",
+      "urlFoto": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Logomarca_da_Rede_Sustentabilidade_%28REDE%29%2C_do_Brasil.png"
+    },
+    {
+      "id": 37908,
+      "sigla": "REPUBLICANOS",
+      "nome": "Republicanos",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjgnELsqqKWPKfMh9Gi1OMH1c06OLS_STng&s"
+    },
+    {
+      "id": 36852,
+      "sigla": "S.PART.",
+      "nome": "Sem Partido",
+      "urlFoto": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cindra/imagens/sem.jpg.gif"
+    },
+    {
+      "id": 36765,
+      "sigla": "SD",
+      "nome": "Solidariedade",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRhWe0kYkWQDiqeTCjZsLMEJbwep9-dPxYOA&s"
+    },
+    {
+      "id": 36764,
+      "sigla": "SDD",
+      "nome": "Solidariedade",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRhWe0kYkWQDiqeTCjZsLMEJbwep9-dPxYOA&s"
+    },
+    {
+      "id": 37904,
+      "sigla": "SOLIDARIEDADE",
+      "nome": "Solidariedade",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRhWe0kYkWQDiqeTCjZsLMEJbwep9-dPxYOA&s"
+    },
+    {
+      "id": 36853,
+      "sigla": "UDB",
+      "nome": "União Democrática Brasileira",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVDjgUROaSFQ7KytEmMNR1QnvkZUAWNvcaA&s"
+    }
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/partidos?sigla=&itens=100&ordem=ASC&ordenarPor=sigla"
+    },
+    {
+      "rel": "next",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/partidos?sigla=&ordem=ASC&ordenarPor=sigla&pagina=2&itens=100"
+    },
+    {
+      "rel": "first",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/partidos?sigla=&ordem=ASC&ordenarPor=sigla&pagina=1&itens=100"
+    },
+    {
+      "rel": "last",
+      "href": "https://dadosabertos.camara.leg.br/api/v2/partidos?sigla=&ordem=ASC&ordenarPor=sigla&pagina=2&itens=100"
+    }
+  ]
+}
