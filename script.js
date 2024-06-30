@@ -239,7 +239,7 @@ async function noticia(){
 
 /* ---------------- Animação ---------------- */
   containerNoticias.style.animationName = "aparecer"
-  containerNoticias.style.animationDuration = "3s"
+  containerNoticias.style.animationDuration = "4s"
 }
 noticia()
 setInterval(() => noticia(), 6000)
